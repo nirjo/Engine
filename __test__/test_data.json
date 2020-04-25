@@ -1,0 +1,44 @@
+{
+    "titles": [
+        "lion book",
+        "tiger book",
+        "both book"
+
+    ],
+    "queries": [
+      "lion",
+      "tiger",
+      "lion tiger"
+      
+    ],
+    "summaries": [
+      {
+        "id": 0,
+        "summary": "lion lion"
+      },
+      {
+        "id": 1,
+        "summary": "tiger tiger tiger"
+      },
+      {
+        "id": 2,
+        "summary": "lion tiger"
+      }
+      
+    ],
+    "authors": [
+      {
+        "book_id": 0,
+        "author": "auth1"
+      },
+      {
+        "book_id": 1,
+        "author": "auth12"
+      },
+      {
+        "book_id": 2,
+        "author": "auth13"
+      }
+     
+    ]
+  }

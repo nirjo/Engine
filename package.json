@@ -1,0 +1,19 @@
+{
+  "name": "engine",
+  "version": "1.0.0",
+  "description": "this is a test",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "yarn run jest"
+  },
+  "author": "nirmal",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "jest": "^25.3.0",
+    "path": "^0.12.7"
+  }
+}
